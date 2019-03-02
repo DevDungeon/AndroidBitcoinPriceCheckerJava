@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bitcoin Price Checker</string>
+    <string name="action_settings">Settings</string>
+    <string name="http_error_message">Error checking price.</string>
+    <string name="bitcoin_price">$%s</string>
+    <string name="n_a">N/A</string>
+    <string name="bitcoin_price_label">Bitcoin Price</string>
+</resources>
